@@ -1,0 +1,246 @@
+body {
+    background-image: url("logo.png");
+    background-repeat:no-repeat;
+    background-attachment:scroll;
+    background-color:bisque;
+    background-size:150px;
+    background-blend-mode:light;
+    background-position:left top;
+}
+.A img{
+        height: 109.5px;
+    width:150px;
+    position:relative;
+    bottom: 125px;
+    left:1215px;
+}
+
+.A h1{
+    font: small-caps bold 50px Georgia, serif;
+    Text-align:center;
+}
+.A p {
+    font:italic small-caps bold 25px TimesNewRoman, serif;
+    text-align:center;
+}
+.B p {
+    font:bold 18px TimeNewRoman, serif; 
+    margin-left:7px;
+    text-align:justify;
+}
+.B h2{
+    font: small-caps bold 25px TimesNewRoman, serif;
+    color:black;
+    text-align:center;
+    background-color:white;
+    border:solid;
+    border-color:black;
+
+}
+.Studio{
+    font: bold 20px TimesNewRoman, serif;
+    text-align:center;
+}
+/*unvisited link*/
+a:link{
+    color:rgb(122, 43, 226);
+}
+/*visited link*/
+a.visited{
+    color:greenyellow;
+}
+/*mouse over link*/
+a:hover{
+    color:darkcyan;
+}
+.C h2{
+    font: bold small-caps 25px Georgia, serif;
+    text-align:center;
+    background-blend-mode: normal;
+    background-color: rgb(236, 54, 54);
+    border:solid;
+    border-color:black;
+}
+.C p{
+    font:bold 18px TimeNewRoman, serif;
+    margin-left:7px;
+    text-align:justify;
+}
+@media print{
+    header{
+        page-break-after: always;
+    }
+}
+.C2 p{
+    font:bold 18px TimeNewRoman, serif;
+    text-align:center;
+}
+.C img{
+    display:block;
+    margin-left:auto;
+    margin-right:auto;
+    width:15%;
+    height:15%;
+    border-style:ridge;
+    border-color:white;
+
+}
+.D h2{
+    font: bold small-caps 25px Georgia, serif;
+    text-align:center;
+    background-color:black;
+    color:white;
+    border:solid;
+    border-color:white;
+}
+.D p{
+    font:bold 18px TimeNewRoman, serif;
+    margin-left:7px;
+    text-align:justify;
+}
+.D2{
+    font:bold 18px TimeNewRoman, serif;
+    text-align:center;
+}
+.D2 p{
+    font:bold 18px TimeNewRoman, serif;
+    text-align:center;
+}
+.D img{
+    display:block;
+    margin-left:auto;
+    margin-right:auto;
+    width:15%;
+    height:10%;
+    border-style:ridge;
+    border-color:white;
+}
+.E h2{
+    font: bold small-caps 25px Georgia, serif;
+    text-align:center;
+    background-color:gray;
+    color:white;
+    border:solid;
+    border-color:white;
+}
+.E p{
+    font:bold 18px TimeNewRoman, serif;
+    margin-left:7px;
+    text-align:justify;
+}
+.E2 p{
+    font:bold 18px TimeNewRoman, serif;
+    text-align:center;
+}
+.E img{
+    display:block;
+    margin-left:auto;
+    margin-right:auto;
+    width:15%;
+    height:12%;
+    border-style:ridge;
+    border-color:white;
+}
+.F h3{
+    font: bold small-caps 23px Georgia, serif;
+    text-align:center;
+}
+.G h2{
+    font: bold small-caps 25px Georgia, serif;
+    text-align:center;
+    background-color:rgb(241, 196, 45);
+    color:black;
+    border:inset;
+    border-color:black
+}
+.G p{
+    font:bold 18px TimeNewRoman, serif;
+    margin-left:7px;
+    text-align:justify;
+}
+.H h2{
+    font: bold small-caps 25px Georgia, serif;
+    text-align:center;
+    background-color:black;
+    color:rgb(241, 196, 45);
+    border:solid;
+    border-color:rgb(241, 196, 45);
+}
+.H p{
+    font:bold 18px TimeNewRoman, serif;
+    margin-left:7px;
+    text-align:justify;
+}
+.I h2{
+    font: bold small-caps 25px Georgia, serif;
+    text-align:center;
+    background-color:black;
+    color:rgb(235, 44, 44);
+    border:solid;
+    border-color:rgb(235, 44, 44); 
+}
+.I1 h4{
+    font: bold small-caps 20px Georgia, serif;
+    text-align:center;
+    
+}
+.I2 h4{
+    font: bold small-caps 20px Georgia, serif;
+    text-align:center;
+}
+.I3 h4{
+    font: bold small-caps 20px Georgia, serif;
+    text-align:center;
+}
+.I4 h4{
+    font: bold small-caps 20px Georgia, serif;
+    text-align:center;
+}
+.I5 h4{
+    font: bold small-caps 20px Georgia, serif;
+    text-align:center;
+}
+.I6 h4{
+    font: bold small-caps 20px Georgia, serif;
+    text-align:center;
+}
+.I7 h4{
+    font: bold small-caps 20px Georgia, serif;
+    text-align:center;
+}
+.I8 h4{
+    font: bold small-caps 20px Georgia, serif;
+    text-align:center;
+}
+.I9 h4{
+    font: bold small-caps 20px Georgia, serif;
+    text-align:center;
+}
+.I10 h4{
+    font: bold small-caps 20px Georgia, serif;
+    text-align:center;
+}
+.I li{
+    font:bold 18px TimeNewRoman, serif;
+    margin-left:90px; 
+}
+.J h2{
+    font: bold small-caps 25px Georgia, serif;
+    text-align:center;
+    background-color:gold ;
+    color:black;
+    border:solid;
+    border-color:black;
+}
+.J p{
+    font:bold 18px TimeNewRoman, serif;
+    text-align:center;
+}
+.J1{
+    font:bold 20px TimesNewRoman, serif;
+    text-align:center;
+}
+.K h3{
+    font: small-caps bold 20px Georgia, serif;
+    text-align:center;
+}
