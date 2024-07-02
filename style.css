@@ -1,6 +1,6 @@
 body {
     background-image: url("logo.png");
-    background-repeat:repeat-x;
+    background-repeat:no-repeat;
     background-attachment:scroll;
     background-color:bisque;
     background-size:150px;
